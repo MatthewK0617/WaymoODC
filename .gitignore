@@ -1,2 +1,3 @@
+.gitignore
 notes.txt
-trained_models/
+src/torch/trained_models/
